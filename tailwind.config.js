@@ -20,7 +20,8 @@ module.exports = {
       }
     },
     fontFamily: {
-      "rubik": ["Rubik", "sans-serif"]
+      "palanquin": ["Palanquin", "sans-serif"],
+      "work-sans": ["Work Sans", "sans-serif"],
     },
     screens: {
       'mobile': '0px',
