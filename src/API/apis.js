@@ -1,0 +1,6 @@
+export const ALL_KATEGORI = "all-kategori"
+export const LAPTOP = "laptop"
+export const LAPTOP_KATEGORI_HARGA = "laptop/kategori-harga"
+export const TOP_LAPTOP = "top-laptop"
+export const PROFILE = "profile"
+export const PROFILE_PASSWORD = "profile_password"
